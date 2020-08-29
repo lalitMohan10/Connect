@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Connect</string>
+    <string name="welcome_to_the_chatting_world">Welcome To The Chatting World</string>
+    <string name="login">ALREADY HAVE ACCOUNT</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT ?</string>
+    <string name="display_name">Display Name</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="your_email">Your Email</string>
+    <string name="hi_there_i_m_using_connect">Hi,there I\'m using Connect</string>
+    <string name="change_image">Change Image</string>
+    <string name="change_status">Change Status</string>
+    <string name="settings">Settings</string>
+    <string name="send_friend_request">SEND FRIEND REQUEST</string>
+    <string name="total_friends">Total Friends</string>
+    <string name="current_user_status">Current User Status</string>
+    <string name="enter_message">Enter Message...</string>
+    <string name="accept">ACCEPT</string>
+    <string name="decline">DECLINE</string>
+</resources>
